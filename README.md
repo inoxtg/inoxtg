@@ -6,7 +6,6 @@ Je suis étudiant en BTS SIO option SLAM.
 # Tech Stack :
 <div id="tech_img" style="width: 25%;">
   <div style="display: flex;">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/java-f39212.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </div>
@@ -15,7 +14,6 @@ Je suis étudiant en BTS SIO option SLAM.
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/js-D6BA31.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   </div>
 
   <div style="display: flex;">
@@ -25,7 +23,6 @@ Je suis étudiant en BTS SIO option SLAM.
 
   <div style="display: flex;">
     <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/NGINX-009137.svg?style=for-the-badge&logo=NGINX&logoColor=white" />
   </div>
 
   <div style="display: flex;">
