@@ -48,7 +48,7 @@ Je suis étudiant en BTS SIO option SLAM.
 
 <div align="center"> 
   <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=inoxtg&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&hide=prs,stars" /> 
-  <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoxtg&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&count_private=false&layout=compact" /> 
+  <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoxtg&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true?exclude_repo=portefolio_final&count_private=false&layout=compact" /> 
 </div>
 
 
