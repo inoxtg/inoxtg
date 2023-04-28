@@ -1,4 +1,5 @@
 # Hey you, I'm inoxtg
+
 Je suis étudiant en BTS SIO option SLAM.
 
 
@@ -55,5 +56,3 @@ Je suis étudiant en BTS SIO option SLAM.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theophile-bourget-fischer/) 
 
 ---
-
-Last Edited on: 18/07/2022
